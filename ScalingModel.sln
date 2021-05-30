@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalingModel", "ScalingModel\ScalingModel.csproj", "{DE309A13-EA04-4D74-8DEE-80F95C44A2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE309A13-EA04-4D74-8DEE-80F95C44A2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE309A13-EA04-4D74-8DEE-80F95C44A2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE309A13-EA04-4D74-8DEE-80F95C44A2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE309A13-EA04-4D74-8DEE-80F95C44A2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC75EDF4-1D87-4386-9CBD-F76F2D950055}
+	EndGlobalSection
+EndGlobal
